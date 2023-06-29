@@ -1,6 +1,6 @@
 # Greetings Micro Service Repository
 
-This repository contains the Greetings micro service.
+This repository contains the Greetings micro service. It provides nice greetings.
 
 ## Requests
 
